@@ -1,0 +1,11 @@
+Things to learn
+
+
+
+
+git
+github
+jenkins
+dockers
+java
+java script
